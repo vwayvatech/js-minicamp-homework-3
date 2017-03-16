@@ -1,0 +1,13 @@
+Objects - They are associated with a key pair values.  Where a key is a property to access.  When accessing the property, there is a value
+associated with it.
+
+Properties - Property in terms of object is a label reference to access.  For every property, there is a value or key to access.
+
+Methods - Another term for function which is defined in the object.  A function is a block set of instructions that can be written.
+
+for in loop - A way to repeat a set of instruction with a given set of control.  This control is from start to end of the loop. 
+
+dot notation vs bracket notation - Dot notation is accessing the property of an object (e.g - users.age).  Bracket notation is accessing a
+numeric location of a property value or in an array.
+
+
